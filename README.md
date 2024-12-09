@@ -1,7 +1,3 @@
-Here’s a tailored README file specifically for the uploaded **`image_processing.ipynb`**:
-
----
-
 # **Image Processing with Python**
 
 ## **Description**
@@ -44,5 +40,3 @@ Make sure you have the following installed:
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to modify this based on specific details or additional features in your project!
